@@ -1,2 +1,2 @@
-# imi-apollo
-imi 框架 apollo 组件。imi apollo component.
+# imi-Apollo
+imi 框架 Apollo 组件。imi Apollo component.
